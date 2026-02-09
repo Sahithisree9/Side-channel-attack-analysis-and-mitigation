@@ -45,9 +45,9 @@ This project focuses on the security of hardware-based cryptographic systems. Ev
 * Multi-Channel Analysis: Evaluating electromagnetic (EM) and timing side-channels.
 
 ## Contributors
-* Karamthot Venkatesh (2022IMG-028)
-* Sushant (2022IMG-062)
-* Vankdoth Sahithi Sree (2022IMG-065)
+* Vankdoth Sahithi Sree
+* Karamthot Venkatesh 
+* Sushant 
 
 Supervisor: Dr. Vijaypal Singh Rathor
 Institution: ABV-Indian Institute of Information Technology and Management (IIITM), Gwalior
